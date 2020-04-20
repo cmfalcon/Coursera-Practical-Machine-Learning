@@ -1,7 +1,7 @@
 ---
 title: "Practical Machine Learning Course Project"
 author: "Celeste Falcon"
-date: "4/17/2020"
+date: "2020/04/17"
 output: html_document
 editor_options: 
   chunk_output_type: console
